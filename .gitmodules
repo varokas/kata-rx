@@ -1,0 +1,3 @@
+[submodule "kata-rx-java"]
+	path = kata-rx-java
+	url = https://github.com/varokas/kata-rx-java
